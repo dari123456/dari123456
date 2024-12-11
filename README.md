@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dari123456
+- 👋 Hi, I’m @darius_u
 - 👀 I’m interested in learning html and c++
 - 🌱 I’m currently learning c++ but optionally html
 - 💞️ I’m looking to collaborate on projects with the community
